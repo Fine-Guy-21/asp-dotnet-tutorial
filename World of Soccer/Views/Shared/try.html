@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+         .switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+.switch input[type="checkbox"] {
+  display: none;
+}
+
+.slider {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  border-radius: 34px;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  border-radius: 50%;
+  transition: .4s;
+}
+
+input[type="checkbox"]:checked + .slider {
+  background-color: #2196F3;
+}
+
+input[type="checkbox"]:checked + .slider:before {
+  transform: translateX(26px);
+} 
+    </style>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+
+    <style>
+      .star-rating input[type="checkbox"] {
+          display: none;
+      }
+      
+      .star-rating label {
+          color: #ddd;
+          font-size: 2rem;
+          transition: color 0.2s;
+      }
+      
+      .star-rating input[type="checkbox"]:checked + label {
+          color: #ffc107;
+      }
+      
+      .star-rating label:hover,
+      .star-rating label:hover ~ label {
+          color: #ffc107;
+      }
+      
+      .star-rating label:hover:before,
+      .star-rating label:hover ~ label:before {
+          content: "\2605";
+      }
+      
+      .star-rating label:before {
+    content: "\2605";
+    display: inline-block;
+    transform: scaleX(-1);
+}
+      </style>
+    
+
+</head>
+<body>
+    <label class="switch">
+        <input type="checkbox" id="toggleSwitch">
+        <span class="slider"></span>
+      </label>
+      <div class="star-rating">
+        <input type="checkbox" id="star5" name="rating" value="5">
+        <label for="star5"></label>
+        <input type="checkbox" id="star4" name="rating" value="4">
+        <label for="star4"></label>
+        <input type="checkbox" id="star3" name="rating" value="3">
+        <label for="star3"></label>
+        <input type="checkbox" id="star2" name="rating" value="2">
+        <label for="star2"></label>
+        <input type="checkbox" id="star1" name="rating" value="1">
+        <label for="star1"></label>
+    </div>
+</body>
+</html>

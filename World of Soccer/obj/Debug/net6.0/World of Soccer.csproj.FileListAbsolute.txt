@@ -1,0 +1,48 @@
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\bin\Debug\net6.0\appsettings.json
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\bin\Debug\net6.0\World of Soccer.staticwebassets.runtime.json
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\bin\Debug\net6.0\World of Soccer.exe
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\bin\Debug\net6.0\World of Soccer.deps.json
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\bin\Debug\net6.0\World of Soccer.runtimeconfig.json
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\bin\Debug\net6.0\World of Soccer.dll
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\bin\Debug\net6.0\World of Soccer.pdb
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\obj\Debug\net6.0\World of Soccer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\obj\Debug\net6.0\World of Soccer.AssemblyInfoInputs.cache
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\obj\Debug\net6.0\World of Soccer.AssemblyInfo.cs
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\obj\Debug\net6.0\World of Soccer.csproj.CoreCompileInputs.cache
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\obj\Debug\net6.0\World of Soccer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\obj\Debug\net6.0\World of Soccer.RazorAssemblyInfo.cache
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\obj\Debug\net6.0\World of Soccer.RazorAssemblyInfo.cs
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\obj\Debug\net6.0\staticwebassets\msbuild.World of Soccer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\obj\Debug\net6.0\staticwebassets\msbuild.build.World of Soccer.props
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.World of Soccer.props
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.World of Soccer.props
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\obj\Debug\net6.0\scopedcss\bundle\World of Soccer.styles.css
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\obj\Debug\net6.0\scopedcss\projectbundle\World of Soccer.bundle.scp.css
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\obj\Debug\net6.0\World of Soccer.dll
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\obj\Debug\net6.0\refint\World of Soccer.dll
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\obj\Debug\net6.0\World of Soccer.pdb
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\obj\Debug\net6.0\World of Soccer.genruntimeconfig.cache
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\obj\Debug\net6.0\ref\World of Soccer.dll
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\obj\Debug\net6.0\World of Soccer.csproj.AssemblyReference.cache
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\bin\Debug\net6.0\Humanizer.dll
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\obj\Debug\net6.0\World of Soccer.csproj.CopyComplete
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\21fin\Desktop\Workspace\GH\asp-dotnet-tutorial\World of Soccer\bin\Debug\net6.0\System.Security.Permissions.dll

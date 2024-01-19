@@ -1,0 +1,649 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\World of Soccer.bundle.scp.css",
+      "PackagePath": "staticwebassets\\World of Soccer.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\ARS\\0217efdc-4e9e-4218-84db-b578a65bfbe1_pngaaa.com-3152827.png",
+      "PackagePath": "staticwebassets\\Kits\\ARS\\0217efdc-4e9e-4218-84db-b578a65bfbe1_pngaaa.com-3152827.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\ARS\\24173ba6-b852-4ffb-8c90-7b1577f86998_zzz.png",
+      "PackagePath": "staticwebassets\\Kits\\ARS\\24173ba6-b852-4ffb-8c90-7b1577f86998_zzz.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\ARS\\476f9ad8-489e-4ad0-aca7-304e93dc1f6b_zz.png",
+      "PackagePath": "staticwebassets\\Kits\\ARS\\476f9ad8-489e-4ad0-aca7-304e93dc1f6b_zz.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\ARS\\bac9e19e-00f1-4459-b64d-c0510e4aac8a_z.png",
+      "PackagePath": "staticwebassets\\Kits\\ARS\\bac9e19e-00f1-4459-b64d-c0510e4aac8a_z.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\ARS\\c27d23f8-01c7-4a0a-9143-86fc24dd393d_pngaaa.com-522768.png",
+      "PackagePath": "staticwebassets\\Kits\\ARS\\c27d23f8-01c7-4a0a-9143-86fc24dd393d_pngaaa.com-522768.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\CHE\\493b45c5-f7d5-4996-b831-f4ea93c65a98_pngaaa.com-3761934.png",
+      "PackagePath": "staticwebassets\\Kits\\CHE\\493b45c5-f7d5-4996-b831-f4ea93c65a98_pngaaa.com-3761934.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\CHE\\fe1f9a66-b481-49fd-a578-4484dd5dce1e_pngaaa.com-59207.png",
+      "PackagePath": "staticwebassets\\Kits\\CHE\\fe1f9a66-b481-49fd-a578-4484dd5dce1e_pngaaa.com-59207.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\EPL\\6eb22054-53c7-4512-af30-1da6dd825f7b_09. Premier League.png",
+      "PackagePath": "staticwebassets\\Kits\\EPL\\6eb22054-53c7-4512-af30-1da6dd825f7b_09. Premier League.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\EPL\\721475f4-dbd9-48c4-949b-2705e045cd81_09. Premier League - Copy.png",
+      "PackagePath": "staticwebassets\\Kits\\EPL\\721475f4-dbd9-48c4-949b-2705e045cd81_09. Premier League - Copy.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\EPL\\f3e5d922-e3df-48e3-9445-71a853a33d56_09. Premier League - Copy (2).png",
+      "PackagePath": "staticwebassets\\Kits\\EPL\\f3e5d922-e3df-48e3-9445-71a853a33d56_09. Premier League - Copy (2).png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\FCB\\3ccdd60f-0bc8-4ea6-a243-a3a937c817c4_ManCityPress1Pesuni.png",
+      "PackagePath": "staticwebassets\\Kits\\FCB\\3ccdd60f-0bc8-4ea6-a243-a3a937c817c4_ManCityPress1Pesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\FCB\\5750fa55-aa8d-47c1-bca2-bc7dabbb64f1_ManCityPress2Pesuni.png",
+      "PackagePath": "staticwebassets\\Kits\\FCB\\5750fa55-aa8d-47c1-bca2-bc7dabbb64f1_ManCityPress2Pesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\FCB\\8d766117-69bd-441f-a480-9f4faaa978bb_ManCityPress3Pesuni.png",
+      "PackagePath": "staticwebassets\\Kits\\FCB\\8d766117-69bd-441f-a480-9f4faaa978bb_ManCityPress3Pesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\Hud\\62cd0020-44ba-4c96-9ead-0659ff307ebb_Chelsea.png",
+      "PackagePath": "staticwebassets\\Kits\\Hud\\62cd0020-44ba-4c96-9ead-0659ff307ebb_Chelsea.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\Hud\\8f03fafb-cdab-4ffe-89de-0a689522f645_Arsenal.png",
+      "PackagePath": "staticwebassets\\Kits\\Hud\\8f03fafb-cdab-4ffe-89de-0a689522f645_Arsenal.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\LIV\\4ded8bda-f684-45d6-97d7-2bb200024196_z.png",
+      "PackagePath": "staticwebassets\\Kits\\LIV\\4ded8bda-f684-45d6-97d7-2bb200024196_z.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\LIV\\596df112-30a5-4fff-8abf-3c897384cf88_zz.png",
+      "PackagePath": "staticwebassets\\Kits\\LIV\\596df112-30a5-4fff-8abf-3c897384cf88_zz.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\LIV\\a7752a57-338c-438c-bfa8-81df1729536f_pngaaa.com-783608.png",
+      "PackagePath": "staticwebassets\\Kits\\LIV\\a7752a57-338c-438c-bfa8-81df1729536f_pngaaa.com-783608.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\LIV\\d039d04c-373d-40b7-9c51-5a02e682a601_pngaaa.com-783720.png",
+      "PackagePath": "staticwebassets\\Kits\\LIV\\d039d04c-373d-40b7-9c51-5a02e682a601_pngaaa.com-783720.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\LIV\\e5aa1a18-bb6e-4c48-b84c-7cf9a0e96976_zzz.png",
+      "PackagePath": "staticwebassets\\Kits\\LIV\\e5aa1a18-bb6e-4c48-b84c-7cf9a0e96976_zzz.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\MCI\\1a263606-6957-4962-9bae-48045de853f2_ManCityAWAYPesuni.png",
+      "PackagePath": "staticwebassets\\Kits\\MCI\\1a263606-6957-4962-9bae-48045de853f2_ManCityAWAYPesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\MCI\\50b4eaec-cb0e-4804-8338-31d0f9e7cc11_ManCityAWAYPesuni.png",
+      "PackagePath": "staticwebassets\\Kits\\MCI\\50b4eaec-cb0e-4804-8338-31d0f9e7cc11_ManCityAWAYPesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\MCI\\58d51bd6-c575-4c9f-9dbd-6e199b15a538_ManCityGK1Pesuni.png",
+      "PackagePath": "staticwebassets\\Kits\\MCI\\58d51bd6-c575-4c9f-9dbd-6e199b15a538_ManCityGK1Pesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\MCI\\5a535277-4034-48cf-9b26-30d829f3d14a_Natalia.png",
+      "PackagePath": "staticwebassets\\Kits\\MCI\\5a535277-4034-48cf-9b26-30d829f3d14a_Natalia.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\MCI\\6102aa18-e047-4360-9f3b-2215c4a62b35_Shanon.png",
+      "PackagePath": "staticwebassets\\Kits\\MCI\\6102aa18-e047-4360-9f3b-2215c4a62b35_Shanon.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\MCI\\7942ae07-bc8c-4ad5-b1f7-d5ae1cbef6fb_ManCityGK1Pesuni.png",
+      "PackagePath": "staticwebassets\\Kits\\MCI\\7942ae07-bc8c-4ad5-b1f7-d5ae1cbef6fb_ManCityGK1Pesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\MCI\\8e9d1825-e404-45b0-a238-7cc333d7d542_ManCityAWAYPesuni.png",
+      "PackagePath": "staticwebassets\\Kits\\MCI\\8e9d1825-e404-45b0-a238-7cc333d7d542_ManCityAWAYPesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\MCI\\93b2989d-b220-406c-8f2f-70beb4900e8b_pngaaa.com-522901.png",
+      "PackagePath": "staticwebassets\\Kits\\MCI\\93b2989d-b220-406c-8f2f-70beb4900e8b_pngaaa.com-522901.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\MCI\\9705dd74-5dd5-4d26-ab25-15a5d88ef3b1_ManCityHOMEPesuni.png",
+      "PackagePath": "staticwebassets\\Kits\\MCI\\9705dd74-5dd5-4d26-ab25-15a5d88ef3b1_ManCityHOMEPesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\MCI\\997acbf7-7e7a-4a5b-a22b-052d57fbc26e_ManCityGK2Pesuni.png",
+      "PackagePath": "staticwebassets\\Kits\\MCI\\997acbf7-7e7a-4a5b-a22b-052d57fbc26e_ManCityGK2Pesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\MCI\\a84c7e01-7fd5-409f-85a0-58c2a8087165_ManCityGK1Pesuni.png",
+      "PackagePath": "staticwebassets\\Kits\\MCI\\a84c7e01-7fd5-409f-85a0-58c2a8087165_ManCityGK1Pesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\MCI\\bbddec8b-ea6a-4415-a35f-99794614be20_ManCityTHIRDPesuni.png",
+      "PackagePath": "staticwebassets\\Kits\\MCI\\bbddec8b-ea6a-4415-a35f-99794614be20_ManCityTHIRDPesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\MCI\\ce4ae396-1c4a-4555-8d91-a27de4e5785e_ManCityGK2Pesuni.png",
+      "PackagePath": "staticwebassets\\Kits\\MCI\\ce4ae396-1c4a-4555-8d91-a27de4e5785e_ManCityGK2Pesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\MCI\\dc55eb72-4d8a-4f9f-9a08-c95b4000b214_ManCityAWAYPesuni.png",
+      "PackagePath": "staticwebassets\\Kits\\MCI\\dc55eb72-4d8a-4f9f-9a08-c95b4000b214_ManCityAWAYPesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\MCI\\e8404f84-ccf3-4f98-b62d-5c54252801f9_pngaaa.com-2345315.png",
+      "PackagePath": "staticwebassets\\Kits\\MCI\\e8404f84-ccf3-4f98-b62d-5c54252801f9_pngaaa.com-2345315.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\MCI\\e9bc2858-1015-409c-b3b8-37a291448ffc_ManCityGK2Pesuni.png",
+      "PackagePath": "staticwebassets\\Kits\\MCI\\e9bc2858-1015-409c-b3b8-37a291448ffc_ManCityGK2Pesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\NEW\\26646ae0-d1d8-4665-b360-ba838f86895a_zzz.png",
+      "PackagePath": "staticwebassets\\Kits\\NEW\\26646ae0-d1d8-4665-b360-ba838f86895a_zzz.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\NEW\\2d159078-2f33-4846-a7d0-39964cfd8535_photo_2023-12-26_02-30-15.png",
+      "PackagePath": "staticwebassets\\Kits\\NEW\\2d159078-2f33-4846-a7d0-39964cfd8535_photo_2023-12-26_02-30-15.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\NEW\\aca7f163-a6fa-4059-bcba-2b372fd0b5ca_zz.png",
+      "PackagePath": "staticwebassets\\Kits\\NEW\\aca7f163-a6fa-4059-bcba-2b372fd0b5ca_zz.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\NEW\\fd9da1a7-ced1-4978-8e58-1d841a9dc281_z.png",
+      "PackagePath": "staticwebassets\\Kits\\NEW\\fd9da1a7-ced1-4978-8e58-1d841a9dc281_z.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\PL\\145dcd1f-fc8d-4682-b147-e0eeaa677f79_zz.png",
+      "PackagePath": "staticwebassets\\Kits\\PL\\145dcd1f-fc8d-4682-b147-e0eeaa677f79_zz.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\PL\\3f7ded1b-6a45-401e-824c-bf6f39f50a7f_zz.png",
+      "PackagePath": "staticwebassets\\Kits\\PL\\3f7ded1b-6a45-401e-824c-bf6f39f50a7f_zz.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\PL\\56624a0e-f243-4d59-9ca7-ac93fba7a2ed_z.png",
+      "PackagePath": "staticwebassets\\Kits\\PL\\56624a0e-f243-4d59-9ca7-ac93fba7a2ed_z.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\PL\\8c271cac-882c-4c27-be2d-7d7228d035c6_ManCitySTpesuni.png",
+      "PackagePath": "staticwebassets\\Kits\\PL\\8c271cac-882c-4c27-be2d-7d7228d035c6_ManCitySTpesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\PL\\9f11291e-87fa-4888-8a8f-c5787ef3f082_z.png",
+      "PackagePath": "staticwebassets\\Kits\\PL\\9f11291e-87fa-4888-8a8f-c5787ef3f082_z.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\PL\\c3e62c12-8b31-4cc9-8e9a-342f6edddd52_z.png",
+      "PackagePath": "staticwebassets\\Kits\\PL\\c3e62c12-8b31-4cc9-8e9a-342f6edddd52_z.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\PL\\c984c5af-e60b-4c73-b282-76f4fb6ab46b_zz.png",
+      "PackagePath": "staticwebassets\\Kits\\PL\\c984c5af-e60b-4c73-b282-76f4fb6ab46b_zz.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\PL\\cb1cb10a-5111-45e8-9ba7-cb1c512fd696_z.png",
+      "PackagePath": "staticwebassets\\Kits\\PL\\cb1cb10a-5111-45e8-9ba7-cb1c512fd696_z.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\PL\\dd264d67-d0bd-41ac-95fc-3f603f66323e_zz.png",
+      "PackagePath": "staticwebassets\\Kits\\PL\\dd264d67-d0bd-41ac-95fc-3f603f66323e_zz.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\PL\\eb8e8167-4784-47a8-9c4d-ff9c89ab1d1e_ManCityMANpesuni.png",
+      "PackagePath": "staticwebassets\\Kits\\PL\\eb8e8167-4784-47a8-9c4d-ff9c89ab1d1e_ManCityMANpesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\Pep\\392083f7-0ce9-4130-8eb8-2cebf1314f36_ManCityMANpesuni.png",
+      "PackagePath": "staticwebassets\\Kits\\Pep\\392083f7-0ce9-4130-8eb8-2cebf1314f36_ManCityMANpesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\Pep\\3a210414-a9f3-434e-8ed1-5876f6f0f5e6_ManCitySTpesuni.png",
+      "PackagePath": "staticwebassets\\Kits\\Pep\\3a210414-a9f3-434e-8ed1-5876f6f0f5e6_ManCitySTpesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\Pep\\4d5ad1a4-ceee-4bff-9c5c-f76d0412f1ac_ManCityLOGpesuni.png",
+      "PackagePath": "staticwebassets\\Kits\\Pep\\4d5ad1a4-ceee-4bff-9c5c-f76d0412f1ac_ManCityLOGpesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\TOT\\55889ee8-6660-4cf5-a42f-127c7993d7aa_zzz.png",
+      "PackagePath": "staticwebassets\\Kits\\TOT\\55889ee8-6660-4cf5-a42f-127c7993d7aa_zzz.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\TOT\\7e595a2a-9692-48ea-84d3-945a126cbdf1_pngaaa.com-522779.png",
+      "PackagePath": "staticwebassets\\Kits\\TOT\\7e595a2a-9692-48ea-84d3-945a126cbdf1_pngaaa.com-522779.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\TOT\\cddb5100-3ea3-4cfb-b1b2-95d0009d29b5_z.png",
+      "PackagePath": "staticwebassets\\Kits\\TOT\\cddb5100-3ea3-4cfb-b1b2-95d0009d29b5_z.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\TOT\\db2ec0da-514d-434f-bb53-ba9f80164b4b_zz.png",
+      "PackagePath": "staticwebassets\\Kits\\TOT\\db2ec0da-514d-434f-bb53-ba9f80164b4b_zz.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\TOT\\eb54c0ea-08ad-45c9-8801-74d146964739_pngaaa.com-522939.png",
+      "PackagePath": "staticwebassets\\Kits\\TOT\\eb54c0ea-08ad-45c9-8801-74d146964739_pngaaa.com-522939.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\WHU\\46e1f6d2-a3db-491a-8a25-f3b23f34ee56_zz.png",
+      "PackagePath": "staticwebassets\\Kits\\WHU\\46e1f6d2-a3db-491a-8a25-f3b23f34ee56_zz.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\WHU\\92bcdacd-908e-4e9c-a4cd-7e983e767aa4_5bbbd95bd2d21-thumbnail.png",
+      "PackagePath": "staticwebassets\\Kits\\WHU\\92bcdacd-908e-4e9c-a4cd-7e983e767aa4_5bbbd95bd2d21-thumbnail.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\WHU\\9f00de1c-9db8-4e0d-8948-08fb07ac4e23_zzz.png",
+      "PackagePath": "staticwebassets\\Kits\\WHU\\9f00de1c-9db8-4e0d-8948-08fb07ac4e23_zzz.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\WHU\\c8c1fc50-65d3-4a91-901a-5d4c95e82c4f_photo_2021-08-18_22-51-41.jpg",
+      "PackagePath": "staticwebassets\\Kits\\WHU\\c8c1fc50-65d3-4a91-901a-5d4c95e82c4f_photo_2021-08-18_22-51-41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\WHU\\d65b7035-7cb4-4b1b-8a95-1dba79448c69_z.png",
+      "PackagePath": "staticwebassets\\Kits\\WHU\\d65b7035-7cb4-4b1b-8a95-1dba79448c69_z.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\1a13b78b-3ef7-4476-8cd7-c2518cf98b39_Natalia.png",
+      "PackagePath": "staticwebassets\\Logo\\1a13b78b-3ef7-4476-8cd7-c2518cf98b39_Natalia.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\212d7cdf-4f52-4e21-8d67-54d9feac3a1a_Liverpool.png",
+      "PackagePath": "staticwebassets\\Logo\\212d7cdf-4f52-4e21-8d67-54d9feac3a1a_Liverpool.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\2cc48a17-fe5c-4012-9f58-e90b33d0f806_Tottenham.png",
+      "PackagePath": "staticwebassets\\Logo\\2cc48a17-fe5c-4012-9f58-e90b33d0f806_Tottenham.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\2ffd3398-9dde-4bad-8f2b-5db545e3cf21_zz.png",
+      "PackagePath": "staticwebassets\\Logo\\2ffd3398-9dde-4bad-8f2b-5db545e3cf21_zz.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\30d705a8-98a0-473d-83a0-0435a0ec5811_09. Premier League.png",
+      "PackagePath": "staticwebassets\\Logo\\30d705a8-98a0-473d-83a0-0435a0ec5811_09. Premier League.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\3b87d7b7-6146-4682-a4f3-4000973b58a3_zz.png",
+      "PackagePath": "staticwebassets\\Logo\\3b87d7b7-6146-4682-a4f3-4000973b58a3_zz.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\4192bd6d-4bce-4c74-b6d1-718847312606_Arsenal.png",
+      "PackagePath": "staticwebassets\\Logo\\4192bd6d-4bce-4c74-b6d1-718847312606_Arsenal.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\4ad686d4-48b3-4124-aaa7-3bbb75b04116_ManCityLOGpesuni.png",
+      "PackagePath": "staticwebassets\\Logo\\4ad686d4-48b3-4124-aaa7-3bbb75b04116_ManCityLOGpesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\5473a137-ac7b-4cd2-b9b4-094843435e87_ManCityPress1Pesuni.png",
+      "PackagePath": "staticwebassets\\Logo\\5473a137-ac7b-4cd2-b9b4-094843435e87_ManCityPress1Pesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\5571b815-3e06-43e9-8541-1af22315e4a7_ManCityMANpesuni.png",
+      "PackagePath": "staticwebassets\\Logo\\5571b815-3e06-43e9-8541-1af22315e4a7_ManCityMANpesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\5eef40e7-6f67-4ca5-9d19-57fbdde20445_ManCityLOGpesuni.png",
+      "PackagePath": "staticwebassets\\Logo\\5eef40e7-6f67-4ca5-9d19-57fbdde20445_ManCityLOGpesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\68cd1c83-fc27-443b-aeab-f3cd904a17d5_Newcastle.png",
+      "PackagePath": "staticwebassets\\Logo\\68cd1c83-fc27-443b-aeab-f3cd904a17d5_Newcastle.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\6937dc41-fdd5-4bce-99b6-e3b8ce3f3f38_Arsenal.png",
+      "PackagePath": "staticwebassets\\Logo\\6937dc41-fdd5-4bce-99b6-e3b8ce3f3f38_Arsenal.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\69579c6e-abcd-4a00-922a-2d56904b94d2_09. Premier League.png",
+      "PackagePath": "staticwebassets\\Logo\\69579c6e-abcd-4a00-922a-2d56904b94d2_09. Premier League.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\6d2b9938-66de-4bf0-90b7-7cd2f576046c_ManCityLOGpesuni.png",
+      "PackagePath": "staticwebassets\\Logo\\6d2b9938-66de-4bf0-90b7-7cd2f576046c_ManCityLOGpesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\7830f285-8b14-4625-8a99-d8e4c4b6f6c8_Liverpool.png",
+      "PackagePath": "staticwebassets\\Logo\\7830f285-8b14-4625-8a99-d8e4c4b6f6c8_Liverpool.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\7a4b825e-c799-4f6e-83ee-80d79c3c50d4_ManCityLOGpesuni.png",
+      "PackagePath": "staticwebassets\\Logo\\7a4b825e-c799-4f6e-83ee-80d79c3c50d4_ManCityLOGpesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\7bfde9d2-2072-4420-a5f6-035b4a78877b_ManCityLOGpesuni.png",
+      "PackagePath": "staticwebassets\\Logo\\7bfde9d2-2072-4420-a5f6-035b4a78877b_ManCityLOGpesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\83d3f4e3-89de-49ef-8a3d-2b7936c39b89_WestHam.png",
+      "PackagePath": "staticwebassets\\Logo\\83d3f4e3-89de-49ef-8a3d-2b7936c39b89_WestHam.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\89bde0c9-c91a-4693-ad42-c68514915284_09. Premier League.png",
+      "PackagePath": "staticwebassets\\Logo\\89bde0c9-c91a-4693-ad42-c68514915284_09. Premier League.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\9ca2663a-72b4-4a7a-8950-2bc091c99f01_ManCityLOGpesuni.png",
+      "PackagePath": "staticwebassets\\Logo\\9ca2663a-72b4-4a7a-8950-2bc091c99f01_ManCityLOGpesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\abb35cfd-14cf-48a0-aaa3-0b5aeb6c2572_09. Premier League.png",
+      "PackagePath": "staticwebassets\\Logo\\abb35cfd-14cf-48a0-aaa3-0b5aeb6c2572_09. Premier League.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\b2209a32-45fb-41c9-a6d8-65133e6d5e65_ManCityLOGpesuni.png",
+      "PackagePath": "staticwebassets\\Logo\\b2209a32-45fb-41c9-a6d8-65133e6d5e65_ManCityLOGpesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\b5bfd6ea-6890-477c-b41a-ab5b167afe39_Tottenham.png",
+      "PackagePath": "staticwebassets\\Logo\\b5bfd6ea-6890-477c-b41a-ab5b167afe39_Tottenham.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\b7366185-c4f4-4c92-ad3f-c704473e2577_09. Premier League.png",
+      "PackagePath": "staticwebassets\\Logo\\b7366185-c4f4-4c92-ad3f-c704473e2577_09. Premier League.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\b7c328ec-c211-40f8-9607-76069383b4d9_Newcastle.png",
+      "PackagePath": "staticwebassets\\Logo\\b7c328ec-c211-40f8-9607-76069383b4d9_Newcastle.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\bd1a80b1-1e31-4d45-8c2c-6f7ac1f37ccc_ManCityPress1Pesuni.png",
+      "PackagePath": "staticwebassets\\Logo\\bd1a80b1-1e31-4d45-8c2c-6f7ac1f37ccc_ManCityPress1Pesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\bddb2b51-403c-44a8-8317-2a17f80b8fa7_WestHam.png",
+      "PackagePath": "staticwebassets\\Logo\\bddb2b51-403c-44a8-8317-2a17f80b8fa7_WestHam.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\c018c866-5e13-480d-946e-039a752115aa_Chelsea.png",
+      "PackagePath": "staticwebassets\\Logo\\c018c866-5e13-480d-946e-039a752115aa_Chelsea.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\c6a5a7b2-181e-4d01-8173-8465fec50dc9_ManCityLOGpesuni.png",
+      "PackagePath": "staticwebassets\\Logo\\c6a5a7b2-181e-4d01-8173-8465fec50dc9_ManCityLOGpesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\d7531aa2-0c2f-453e-a531-ade146d1737d_ManCityLOGpesuni.png",
+      "PackagePath": "staticwebassets\\Logo\\d7531aa2-0c2f-453e-a531-ade146d1737d_ManCityLOGpesuni.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\dfa5d007-ec73-4d2c-aa33-3800f5499d4e_09. Premier League.png",
+      "PackagePath": "staticwebassets\\Logo\\dfa5d007-ec73-4d2c-aa33-3800f5499d4e_09. Premier League.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\fc120334-a039-4f5b-b485-97b62b0a3ce3_09. Premier League.png",
+      "PackagePath": "staticwebassets\\Logo\\fc120334-a039-4f5b-b485-97b62b0a3ce3_09. Premier League.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.World of Soccer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.World of Soccer.props",
+      "PackagePath": "build\\World of Soccer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.World of Soccer.props",
+      "PackagePath": "buildMultiTargeting\\World of Soccer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.World of Soccer.props",
+      "PackagePath": "buildTransitive\\World of Soccer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

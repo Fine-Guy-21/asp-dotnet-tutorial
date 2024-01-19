@@ -1,0 +1,37 @@
+﻿@using World_of_Soccer.Models;
+@model List<Team>
+
+@{
+    Layout = "_Layout";
+    //var plist = ViewBag.products;
+}
+
+<div class="container">
+    <h4 class="display-4">All Teams</h4>
+       <div class="row">
+         @foreach(var p in @Model)
+         {
+               <div class="col-md-4">
+                   <div class="card mb-4 shadow-sm" style="width: 18rem;">
+                       <img src="@p.TeamLogo" width="15" height="145"  class="card-img-top" alt="...">
+                       <div class="card-body">
+                            <h3 class="card-title">@p.TeamShortName</h3>
+                                <p class="card-text">@p.TeamName</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                <a href="/Team/GetTeamById/@p.TeamId" class="btn btn-outline-secondary">Details</a>
+                                </div>
+                                <div class="btn-group">
+                                <a href="/Team/UpdateTeam/@p.TeamId" class="btn btn-outline-secondary">Edit</a>
+                                </div>
+                                <div class="btn-group">
+                                <a href="/Team/DeleteTeam/@p.TeamId" class="btn btn-outline-secondary">Delete</a>
+                            </div>
+                            </div>
+                       </div>
+                   </div>
+               </div>
+         }
+         
+       </div>
+</div>

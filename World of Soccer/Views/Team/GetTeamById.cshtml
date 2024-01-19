@@ -1,0 +1,67 @@
+﻿@using World_of_Soccer.Models;
+
+@model Team;
+
+
+<div class="container">
+    <h3><strong><u>Team Details</u></strong></h3>
+        <div class="row">
+            <div class="col-md-6">
+                <img src="@Model.TeamLogo" width="250" height="250" class="img-responsive" alt="@Model.TeamName Logo">
+            </div>
+            <div class="col-md-6 ">
+                <ul class="list-group">
+                    <li class="list-group-item"><span class="font-weight-bold"><b>Team Id</b> - </span>@Model.TeamId</li>
+                    <li class="list-group-item"><span class="font-weight-bold"><b>Team Name(</b>Full<b>)</b> - </span>@Model.TeamName</li>
+                <li class="list-group-item"><span class="font-weight-bold"><b>Team Name(</b>Short<b>)</b> - </span>@Model.TeamShortName</li>
+                    <li class="list-group-item"><span class="font-weight-bold"><b>Coach</b> - </span>@Model.TeamCoach</li>
+                </ul>
+                    <hr/>
+            <div class="btn-group-horizontal">
+                <div class="btn-group">
+                    <a href="/Team/GetAllTeams" class="btn btn-group-lg btn-info">Go Back</a>
+                </div>
+                <div class="btn-group">
+                    <a href="/Team/UpdateTeam/@Model.TeamId" class="btn btn-group-lg btn-warning">Edit</a>
+                </div>
+                <div class="btn-group">
+                    <a href="/Team/DeleteTeam/@Model.TeamId" class="btn btn-group-lg btn-danger">Delete</a>
+                </div>
+            </div>
+            </div>
+        </div>
+             <div class="col-md-6">
+                 <div class="row">
+                    <div class="col-md-12">
+                        <h1>@Model.TeamShortName</h1>
+                    </div>
+                </div>
+            </div> @* TSH*@
+
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="description">
+                        @Model.TeamName
+                    </p>
+                </div>
+            </div> @*Name*@
+                
+                <hr />
+                    <b>Team Kits</b>
+                <hr />
+                
+            <div class="row">
+
+                @foreach (ImageGallery Pic in Model.TeamKits)
+                {
+                    String path = Pic.Url;
+                    <div class="col-sm-6">
+                        <img src="@path" width="150" height="200" class="img-responsive" alt="@Model.TeamName Kits">
+                    </div>
+                }
+            </div> @*Kits*@
+
+
+
+</div>
+     
