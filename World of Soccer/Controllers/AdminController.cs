@@ -50,7 +50,6 @@ namespace World_of_Soccer.Controllers
                     { 
                         ModelState.AddModelError("", error.Description); 
                     }
-                    
                 }
             }
             

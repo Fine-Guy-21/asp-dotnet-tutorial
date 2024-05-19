@@ -17,13 +17,12 @@ namespace World_of_Soccer.Controllers
             this.signInManager = signInManager;
         }
 
-        [AllowAnonymous]
-        
+/*         [AllowAnonymous]        
         public IActionResult Login()
         {
             return View();
         }
-
+ */
         [AllowAnonymous]
         [HttpGet]
         public IActionResult Login(string returnurl)

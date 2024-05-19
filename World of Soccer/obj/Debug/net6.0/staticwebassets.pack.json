@@ -73,8 +73,16 @@
       "PackagePath": "staticwebassets\\Kits\\LIV\\596df112-30a5-4fff-8abf-3c897384cf88_zz.png"
     },
     {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\LIV\\8d8b9840-e72b-4cbd-83cc-e573ed8ccba5_Natalia.png",
+      "PackagePath": "staticwebassets\\Kits\\LIV\\8d8b9840-e72b-4cbd-83cc-e573ed8ccba5_Natalia.png"
+    },
+    {
       "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\LIV\\a7752a57-338c-438c-bfa8-81df1729536f_pngaaa.com-783608.png",
       "PackagePath": "staticwebassets\\Kits\\LIV\\a7752a57-338c-438c-bfa8-81df1729536f_pngaaa.com-783608.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\LIV\\c610e584-5fc7-4d74-93e9-b34f42681717_Shanon.png",
+      "PackagePath": "staticwebassets\\Kits\\LIV\\c610e584-5fc7-4d74-93e9-b34f42681717_Shanon.png"
     },
     {
       "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\LIV\\d039d04c-373d-40b7-9c51-5a02e682a601_pngaaa.com-783720.png",
@@ -383,6 +391,10 @@
     {
       "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\dfa5d007-ec73-4d2c-aa33-3800f5499d4e_09. Premier League.png",
       "PackagePath": "staticwebassets\\Logo\\dfa5d007-ec73-4d2c-aa33-3800f5499d4e_09. Premier League.png"
+    },
+    {
+      "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\ea0da0c4-bccd-4285-a7cf-1b01fa5240e7_Natalia.png",
+      "PackagePath": "staticwebassets\\Logo\\ea0da0c4-bccd-4285-a7cf-1b01fa5240e7_Natalia.png"
     },
     {
       "Id": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\fc120334-a039-4f5b-b485-97b62b0a3ce3_09. Premier League.png",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MZ21e4T+ENxk7w1PQXfgaVVC7I4k3K2KS79fMtLIavc=",
+  "Hash": "fbaY0FH6wWQo+AtOlKATyr/i8rADlg7VESgY6Vk2r9w=",
   "Source": "World of Soccer",
   "BasePath": "_content/World of Soccer",
   "Mode": "Default",
@@ -391,6 +391,23 @@
       "OriginalItemSpec": "wwwroot\\Kits\\LIV\\596df112-30a5-4fff-8abf-3c897384cf88_zz.png"
     },
     {
+      "Identity": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\LIV\\8d8b9840-e72b-4cbd-83cc-e573ed8ccba5_Natalia.png",
+      "SourceId": "World of Soccer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\",
+      "BasePath": "_content/World of Soccer",
+      "RelativePath": "Kits/LIV/8d8b9840-e72b-4cbd-83cc-e573ed8ccba5_Natalia.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Kits\\LIV\\8d8b9840-e72b-4cbd-83cc-e573ed8ccba5_Natalia.png"
+    },
+    {
       "Identity": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\LIV\\a7752a57-338c-438c-bfa8-81df1729536f_pngaaa.com-783608.png",
       "SourceId": "World of Soccer",
       "SourceType": "Discovered",
@@ -406,6 +423,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Kits\\LIV\\a7752a57-338c-438c-bfa8-81df1729536f_pngaaa.com-783608.png"
+    },
+    {
+      "Identity": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\LIV\\c610e584-5fc7-4d74-93e9-b34f42681717_Shanon.png",
+      "SourceId": "World of Soccer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\",
+      "BasePath": "_content/World of Soccer",
+      "RelativePath": "Kits/LIV/c610e584-5fc7-4d74-93e9-b34f42681717_Shanon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Kits\\LIV\\c610e584-5fc7-4d74-93e9-b34f42681717_Shanon.png"
     },
     {
       "Identity": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Kits\\LIV\\d039d04c-373d-40b7-9c51-5a02e682a601_pngaaa.com-783720.png",
@@ -2684,6 +2718,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Logo\\dfa5d007-ec73-4d2c-aa33-3800f5499d4e_09. Premier League.png"
+    },
+    {
+      "Identity": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\ea0da0c4-bccd-4285-a7cf-1b01fa5240e7_Natalia.png",
+      "SourceId": "World of Soccer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\",
+      "BasePath": "_content/World of Soccer",
+      "RelativePath": "Logo/ea0da0c4-bccd-4285-a7cf-1b01fa5240e7_Natalia.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Logo\\ea0da0c4-bccd-4285-a7cf-1b01fa5240e7_Natalia.png"
     },
     {
       "Identity": "C:\\Users\\21fin\\Desktop\\Workspace\\GH\\asp-dotnet-tutorial\\World of Soccer\\wwwroot\\Logo\\fc120334-a039-4f5b-b485-97b62b0a3ce3_09. Premier League.png",

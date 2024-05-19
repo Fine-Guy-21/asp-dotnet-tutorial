@@ -320,6 +320,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Kits\LIV\596df112-30a5-4fff-8abf-3c897384cf88_zz.png))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Kits\LIV\8d8b9840-e72b-4cbd-83cc-e573ed8ccba5_Natalia.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>World of Soccer</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/World of Soccer</BasePath>
+      <RelativePath>Kits/LIV/8d8b9840-e72b-4cbd-83cc-e573ed8ccba5_Natalia.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Kits\LIV\8d8b9840-e72b-4cbd-83cc-e573ed8ccba5_Natalia.png))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Kits\LIV\a7752a57-338c-438c-bfa8-81df1729536f_pngaaa.com-783608.png))">
       <SourceType>Package</SourceType>
       <SourceId>World of Soccer</SourceId>
@@ -335,6 +351,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Kits\LIV\a7752a57-338c-438c-bfa8-81df1729536f_pngaaa.com-783608.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Kits\LIV\c610e584-5fc7-4d74-93e9-b34f42681717_Shanon.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>World of Soccer</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/World of Soccer</BasePath>
+      <RelativePath>Kits/LIV/c610e584-5fc7-4d74-93e9-b34f42681717_Shanon.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Kits\LIV\c610e584-5fc7-4d74-93e9-b34f42681717_Shanon.png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Kits\LIV\d039d04c-373d-40b7-9c51-5a02e682a601_pngaaa.com-783720.png))">
       <SourceType>Package</SourceType>
@@ -2479,6 +2511,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Logo\dfa5d007-ec73-4d2c-aa33-3800f5499d4e_09. Premier League.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Logo\ea0da0c4-bccd-4285-a7cf-1b01fa5240e7_Natalia.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>World of Soccer</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/World of Soccer</BasePath>
+      <RelativePath>Logo/ea0da0c4-bccd-4285-a7cf-1b01fa5240e7_Natalia.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Logo\ea0da0c4-bccd-4285-a7cf-1b01fa5240e7_Natalia.png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Logo\fc120334-a039-4f5b-b485-97b62b0a3ce3_09. Premier League.png))">
       <SourceType>Package</SourceType>

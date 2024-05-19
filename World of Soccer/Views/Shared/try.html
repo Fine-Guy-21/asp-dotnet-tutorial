@@ -1,104 +1,130 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>@ViewData["Title"] - Fine Freelancing Website</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true">
     <style>
-         .switch {
-  position: relative;
-  display: inline-block;
-  width: 60px;
-  height: 34px;
-}
-
-.switch input[type="checkbox"] {
-  display: none;
-}
-
-.slider {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: #ccc;
-  border-radius: 34px;
-  transition: .4s;
-}
-
-.slider:before {
-  position: absolute;
-  content: "";
-  height: 26px;
-  width: 26px;
-  left: 4px;
-  bottom: 4px;
-  background-color: white;
-  border-radius: 50%;
-  transition: .4s;
-}
-
-input[type="checkbox"]:checked + .slider {
-  background-color: #2196F3;
-}
-
-input[type="checkbox"]:checked + .slider:before {
-  transform: translateX(26px);
-} 
+        body {
+            background-image: url('https://images.unsplash.com/photo-1617957743097-0d20aa2ea762?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+            background-size: cover;
+            background-position: center;
+        }
     </style>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+</head>
+<img src="C:\Users\21fin\Downloads\cesar-couto-27HiryxnHJk-unsplash.jpg" alt="" class="bgimg">
+
+<body>
+<!--     <header>
+        <nav class="navbar navbar-expand-md navbar-light bg-light">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="https://10web-site.ai/43/wp-content/uploads/sites/46/2024/01/sam-balye-fjTJ_Q0Pwkg-unsplash_dwx7wdF5.webp"
+                        alt="Logo" width="45" height="45" class="me-2">
+                    Fine Freelancing Website
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
+                    aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+                    </ul>
+                    <div class="end">
+                        <h4>Login</h4>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted bg-light py-3">
+        <div class="container">
+            &copy; 2024 - Fine Freelancing Website - <a asp-area="" asp-controller="Home"
+                asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false) -->
 
     <style>
-      .star-rating input[type="checkbox"] {
-          display: none;
-      }
-      
-      .star-rating label {
-          color: #ddd;
-          font-size: 2rem;
-          transition: color 0.2s;
-      }
-      
-      .star-rating input[type="checkbox"]:checked + label {
-          color: #ffc107;
-      }
-      
-      .star-rating label:hover,
-      .star-rating label:hover ~ label {
-          color: #ffc107;
-      }
-      
-      .star-rating label:hover:before,
-      .star-rating label:hover ~ label:before {
-          content: "\2605";
-      }
-      
-      .star-rating label:before {
-    content: "\2605";
-    display: inline-block;
-    transform: scaleX(-1);
-}
-      </style>
-    
+        body{
+            justify-content: center;
+            align-items: center;
+        }
+        
+    </style>
+    <div class="d-flex flex-column">
 
-</head>
-<body>
-    <label class="switch">
-        <input type="checkbox" id="toggleSwitch">
-        <span class="slider"></span>
-      </label>
-      <div class="star-rating">
-        <input type="checkbox" id="star5" name="rating" value="5">
-        <label for="star5"></label>
-        <input type="checkbox" id="star4" name="rating" value="4">
-        <label for="star4"></label>
-        <input type="checkbox" id="star3" name="rating" value="3">
-        <label for="star3"></label>
-        <input type="checkbox" id="star2" name="rating" value="2">
-        <label for="star2"></label>
-        <input type="checkbox" id="star1" name="rating" value="1">
-        <label for="star1"></label>
+        <div class="card col-sm-10 ">
+            <div class="card-header col-sm">
+                @job.JobTitle
+            </div>
+            <div class="card-body">
+                <p>@job.JobDescription</p>
+                <div class="card-body">
+                    <h4 class="card-text">Price : @job.JobPrice br</h4>
+                    @{
+                        DateTime expireDate = job.Expiredate;
+                        string formattedDate = expireDate.ToString("MM/dd/yyyy");
+                    }
+                    <h4 class="card-text">Deadline : @formattedDate </h4>
+                </div>
+                <div class="card-footer">
+                        <a href="#" class="btn btn-oulint-Success"> Detail</a>
+                </div>        
+            </div>
+        </div>
+
+    <br>
+
+
+        <div class="card col-sm-10 ">
+            <div class="card-header col-sm">
+                @job.JobTitle
+            </div>
+            <div class="card-body">
+                <p>@job.JobDescription</p>
+                <div class="card-body">
+                    <h4 class="card-text">Price : @job.JobPrice br</h4>
+                    @{
+                        DateTime expireDate = job.Expiredate;
+                        string formattedDate = expireDate.ToString("MM/dd/yyyy");
+                    }
+                    <h4 class="card-text">Deadline : @formattedDate </h4>
+                </div>
+                <div class="card-footer">
+                        <a href="#" class="btn btn-oulint-Success"> Detail</a>
+                </div>
+        
+            </div>
+        </div>
     </div>
 </body>
+
 </html>
+
+
+
+
+
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde officia est, corrupti dicta ipsam placeat voluptatum et quo amet blanditiis nesciunt optio minima. Non numquam eius quia voluptatum ratione voluptatibus tempore minima earum, commodi illo porro repudiandae! Sequi doloremque rem nam. Aliquid dolorum, ab perferendis dolores molestias consequuntur unde laborum?
+
+
